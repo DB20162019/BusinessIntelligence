@@ -1,6 +1,8 @@
 # Business Intelligence
 To Develop a decision-making system for sales management with a database.
 
+Technologies, tools, programming languages: MSSQL (SSIS, SSAS, SSRS), SQL, QlikView, Excel, SAP Business Objects...
+
 Part 1 : ETL functions implementation
 
   1. Take in consideration the data quality
@@ -37,3 +39,5 @@ Partie 3 : Implementation of reporting
   3.4. Reporting with Excel
 
   3.5. Reporting with Qlikview
+  
+Documentation of the project are available in French but you can look inside, there are screenshots of the different steps of the project.
